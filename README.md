@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá tudo bem, eu sou o webMasterAlumni 👋
 
-<!--
-**webMasterAlumni/webMasterAlumni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aqui algumas ideias para me conhecer melhor (☞ﾟヮﾟ)☞:
 
-Here are some ideas to get you started:
+- 🔭 Não estou trabalhando atualmente, ༼ つ ◕_◕ ༽つ mas pretendo começar logo 
+- 🌱 Estou aprendendo React Hooks ^_^
+- 😄 Pronouns: Ele, Dele (¬‿¬)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+<div align="center">
+  <a href="https://github.com/webMasterAlumni">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=webMasterAlumni&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webMasterAlumni&layout=compact&langs_count=7&theme=radical"/>
+</div>
+  
+<img height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original-wordmark.svg" />
+
+    
