@@ -2,9 +2,8 @@
 
 Aqui algumas ideias para me conhecer melhor (☞ﾟヮﾟ)☞:
 
-- 🔭 Não estou trabalhando atualmente, ༼ つ ◕_◕ ༽つ mas pretendo começar logo 
-- 🌱 Estou aprendendo React Hooks ^_^
-- 😄 Pronouns: Ele, Dele (¬‿¬)
+- 🔭 Estou trabalhando na NewSun Energy como estagiário frontend junior
+- 🌱 Estou aprendendo Material UI, Next.js ^_^
 
 ##
 
