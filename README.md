@@ -2,8 +2,8 @@
 
 Aqui algumas ideias para me conhecer melhor (☞ﾟヮﾟ)☞:
 
-- 🔭 Estou trabalhando na NewSun Energy como estagiário frontend junior
-- 🌱 Estou aprendendo Material UI, Next.js ^_^
+- 🔭 Estou trabalhando na NewSun Energy como desenvolvedor frontend junior em React.js | Redux
+- 🌱 Estou aprendendo Material UI ^_^
 
 ##
 
@@ -21,6 +21,7 @@ Aqui algumas ideias para me conhecer melhor (☞ﾟヮﾟ)☞:
 <img height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
 <img height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+<i class="devicon-redux-original colored"></i>
   
 ##
   
