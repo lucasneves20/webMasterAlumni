@@ -1,9 +1,9 @@
-### Olá tudo bem, eu sou o webMasterAlumni 👋
+### Olá tudo bem, eu sou o webMasterAlumni(Lucas Neves) 👋
 
 Aqui algumas ideias para me conhecer melhor (☞ﾟヮﾟ)☞:
 
-- 🔭 Estou trabalhando na NewSun Energy como desenvolvedor frontend junior em React.js | Redux
-- 🌱 Estou aprendendo Material UI ^_^
+- 🔭 Estou trabalhando fora da área atualmente
+- 🌱 Estou aprendendo Vanilla JS para melhor flexibilidade ^_^
 
 ##
 
